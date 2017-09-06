@@ -1,0 +1,19 @@
+name1= input('name of one  of your friends')
+name2= input('name of another friend of you')
+favoceleb=input('name of your favorite celebrity')
+time=input('time on your watch right now')
+country=input('country that starts with the first letter of your name')
+city=input('name a European city')
+homecity=input('name your home city')
+number=input('fill in a number')
+favobeatyproduct=input('name your favorite beauty product')
+item=input('first thing you see now')
+colour=input('colour')
+cloth=input('name a cloth')
+place=input('name a strange place')
+
+print('Whoohoo! You' +name1, name2, 'and ' +favoceleb ,'are after.'  +str(time), 'hours of arguments finally come to agree.'\
+'The holiday to' +country,  'has been booked! The weekend trip to ' +city, 'and backpacking in' +homecity, 'have been dropped.'\
+'Begin to prepare! You cannot live without ' +number, ' liter ' +favobeatyproduct, name1, 'first wants ' +number,\
+' new copies of her favorite' +item, name2, ' wants to shop for new ' +colour, cloth,'But ' +favoceleb,\
+'wins. You must first go to the ' +place)
